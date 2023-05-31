@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/vite_test1/',
+  base: 'https://preinspiron.github.io/vite_test1/',
 })
